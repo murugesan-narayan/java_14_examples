@@ -1,6 +1,7 @@
 package com.java.core;
 
 //Before
+@SuppressWarnings("unused")
 final class Point {
     public final int x;
     public final int y;
